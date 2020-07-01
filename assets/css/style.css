@@ -21,7 +21,7 @@ a {
 }
 
 a:hover {
-  color: #067ded;
+  color: #1A237e;
   text-decoration: none;
 }
 
@@ -1251,7 +1251,7 @@ section {
 }
 
 .download:hover {
-  color:#1A237e; 
+  color: #1A237e; 
   background: transparent;
 
 }
