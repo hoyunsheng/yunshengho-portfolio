@@ -373,6 +373,11 @@ section {
   padding-bottom: 20px;
   position: relative;
   color: #45505b;
+  font-family: "Avenirnext";
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px #000, 0 -1px 1px #000, 1px 1px 1px #000, -1px 0 0 #000, 1px 1px 0 #000, 1px 0 0 #000, 0 -1px 0 #000;
 }
 
 .section-title h2::before {
@@ -1092,10 +1097,11 @@ section {
   color: #fff;
   transition: 0.4s;
   border-radius: 50px;
+
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #0678e3;
+  background: #1A237E;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1242,4 +1248,10 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+
+.download:hover {
+  color:#1A237e; 
+  background: transparent;
+
 }
