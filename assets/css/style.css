@@ -1143,8 +1143,8 @@ section {
 .portfolio-details .portfolio-details-carousel .owl-dot {
   display: inline-block;
   margin: 0 5px;
-  width: 12px;
-  height: 12px;
+  width: 10px;
+  height: 10px;
   border-radius: 50%;
   background-color: #ddd !important;
 }
